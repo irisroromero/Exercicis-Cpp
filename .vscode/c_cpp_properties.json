@@ -3,12 +3,12 @@
         {
             "name": "Win64",
             "includePath": [
-                "C:/Program Files/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include/c++/13.2.0",
-                "C:/Program Files/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include/c++/13.2.0/x86_64-w64-mingw32",
-                "C:/Program Files/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include/c++/13.2.0/backward",
-                "C:/Program Files/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include",
-                "C:/Program Files/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include",
-                "C:/Program Files/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed"
+                "C:/Program Files/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../include/c++/14.2.0",
+                "C:/Program Files/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../include/c++/14.2.0/x86_64-w64-mingw32",
+                "C:/Program Files/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../include/c++/14.2.0/backward",
+                "C:/Program Files/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/include",
+                "C:/Program Files/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../include",
+                "C:/Program Files/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed"
             ],
             "intelliSenseMode": "${default}",
             "compilerPath": "C:\\Program Files\\msys64\\ucrt64\\bin\\gcc.exe",
